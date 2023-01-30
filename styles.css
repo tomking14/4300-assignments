@@ -121,9 +121,9 @@ ul{
     list-style: none;
     margin-bottom: 50px;
 } 
-body.front {
+body.front{
     background: linear-gradient(-45deg,#EBC7E6,#8EA7E9,#A084DC, #7286D3);
-  }
+}
 body.back{
     background-color: #8EA7E9;
 }
